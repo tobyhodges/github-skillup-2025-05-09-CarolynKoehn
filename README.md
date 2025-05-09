@@ -1,6 +1,6 @@
 # Baking Sourdough Cinnamon Rolls
 
-An example lesson teaching how to bake sourdough cinnamon rolls.
+An example lesson teaching how to bake tasty tasty sourdough cinnamon rolls.
 
 Generated from [_crispy-doodle_](https://github.com/carpentries/crispy-doodle).
 
